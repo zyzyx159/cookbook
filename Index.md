@@ -22,4 +22,8 @@
 4. [Gummies](Dessert/Gummies.html)
 5. [Hard Candy](Dessert/HardCandy.html)
 
+## ingredients
+
+1. [Homemade Italian Seasoning](HTML/Ingredients/HomemadeItalianSeasoning.html)
+
 ### Version 1.1
