@@ -10,15 +10,15 @@
 ## Entree
 
 1. [Stir Fry](Entree/StirFry.html)
-   1. [Stir Fry Sause](Entree/StriFrySause.html)
-   2. [Sweet and Sour Sause](Entree/SweetAndSourSause.html)
-2. [Tomato Sause](Entree/TomatoSauce.html)
+   1. [Stir Fry Sauce](Entree/StirFrySauce.html)
+   2. [Sweet and Sour Sauce](Entree/SweetAndSourSauce.html)
+2. [Tomato Sauce](Entree/TomatoSauce.html)
 
 ## Dessert
 
-1. [Overloaded Choclate Chip Cookies](Dessert/OverLoadedChocolateChipCookies.html)
-2. [Death by Choclate Overloaded Choclate Chip Cookies](Dessert/DeathByChoclateOverLoadedChoclateChipCookies.html)
-3. [Snickerdoodle Choclate Cake](Dessert/SnickerdoodleChoclateCake.html)
+1. [Overloaded Chocolate Chip Cookies](Dessert/OverLoadedChocolateChipCookies.html)
+2. [Death by Chocolate Overloaded Chocolate Chip Cookies](Dessert/DeathByChoclateOverLoadedChoclateChipCookies.html)
+3. [Snickerdoodle Chocolate Cake](Dessert/SnickerdoodleChocolateCake.html)
 4. [Gummies](Dessert/Gummies.html)
 5. [Hard Candy](Dessert/HardCandy.html)
 
