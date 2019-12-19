@@ -13,5 +13,5 @@
 
 ## Directions
 
-1. Place all ingrediants into a food processer and mix well
-    - I have a ninja food chopper and used that
+1. Place all ingredients into a food processor and mix well
+   - I have a ninja food chopper and used that
