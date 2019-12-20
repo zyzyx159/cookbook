@@ -12,7 +12,8 @@
 
 1. [Chicken Cordon Bleu](Entree/ChickenCordonBleu.html)
 2. [Chicken Fried Rice](Entree/ChickenFriedRice.html)
-3. [Stir Fry](Entree/StirFry.html)
+3. [HerbMarinatedPorkTenderloins.html](Entree/HerbMarinatedPorkTenderloins.html)
+4. [Stir Fry](Entree/StirFry.html)
 
 ## Dessert
 
