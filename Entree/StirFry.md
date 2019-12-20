@@ -28,17 +28,17 @@
 ## Sauce
 
 - Pick one
-  - [Stir Fry](/HTML/Entree/StriFrySause.html)
-  - [Sweet and Sour](/HTML/Entree/SweetAndSourSause.html)
+  - [Stir Fry](/HTML/Ingredients/StriFrySause.html)
+  - [Sweet and Sour](/HTML/Ingredients/SweetAndSourSause.html)
 
 ## Instructions
 
 1. Cut you meat into thin strips
-    - Unless its already small like seafood
+   - Unless its already small like seafood
 2. Fry in a large pan with 2 tablespoons of oil until thoroughly cooked
 3. Remove from pan and place to the side
 4. Fry your vegetables with another 2 tablespoons of oil
 5. Cook your starch per directions
-    - If you use rice you may want to start sooner, but anything else this is the time
+   - If you use rice you may want to start sooner, but anything else this is the time
 6. Dump the meat, vegetables, starch, and sauce back into the pan.
 7. Heat the mixture while stirring to ensure and even mix of ingredients.
