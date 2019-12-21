@@ -12,8 +12,13 @@
 
 1. [Chicken Cordon Bleu](Entree/ChickenCordonBleu.html)
 2. [Chicken Fried Rice](Entree/ChickenFriedRice.html)
-3. [HerbMarinatedPorkTenderloins.html](Entree/HerbMarinatedPorkTenderloins.html)
-4. [Stir Fry](Entree/StirFry.html)
+3. [Herb Marinated Pork Tender loins](Entree/HerbMarinatedPorkTenderloins.html)
+4. [Orange Chicken Fingers](Entree/OrangeChickenFingers.html)
+5. [Pork Tenderloin With Seasoned Rub](Entree/PorkTenderloinWithSeasonedRub.html)
+6. [Roasted Rosemary Chicken with Potatoes](Entree/RoastedRosemaryChickenWithPotatoes.html)
+7. [Savory Peach Chicken](Entree/SavoryPeachChicken.html)
+8. [Spicy Kale and Corn Stuffed Chicken Breasts](Entree/SpicyKaleAndCornStuffedChickenBreasts.html)
+9. [Stir Fry](Entree/StirFry.html)
 
 ## Dessert
 
