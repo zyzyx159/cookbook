@@ -29,3 +29,5 @@
 13. Carve in 1/2-inch-thick diagonal slices.
 14. The thickest part of the tenderloin will be quite pink (it's just fine!) and the thinnest part will be well done.
 15. Season with salt and serve warm, or at room temperature with the juices that collect in the platter.
+
+## [Index](../Index.html)

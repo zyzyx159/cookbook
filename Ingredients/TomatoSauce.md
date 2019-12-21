@@ -18,3 +18,5 @@
 4. Place in a crock pot, add tomatoes and sugar.
 5. Let simmer for 8 hours on low or 4 hours on high.
 6. Use immediately or freeze for up to 2 months as well.
+
+## [Index](../Index.html)

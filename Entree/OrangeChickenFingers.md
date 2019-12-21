@@ -31,3 +31,5 @@
 9. Bake until the crust is golden and the chicken is cooked through, 18 to 20 minutes.
 10. Meanwhile, in a small sauce pot heat the marmalade, teriyaki and ginger over medium heat until melted and well combined.
 11. Remove from heat and stir in the lemon juice.
+
+## [Index](../Index.html)

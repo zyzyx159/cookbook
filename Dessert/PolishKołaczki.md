@@ -26,3 +26,5 @@
 - You can freeze the fillings with little loss in flavor or consistency.
 - You can freeze kołaczki filled and unbaked and bake them from the frozen state.
 - Don't freeze baked kołaczki because when you defrost them, they will become soggy.
+
+## [Index](../Index.html)

@@ -17,3 +17,5 @@
 5. Wrap dough in plastic wrap and put into the freezer to rest.
 6. Cut dough in half and roll out into an approximate 9-inch circle.
 7. Fill and bake in 375 degree oven.
+
+## [Index](../Index.html)

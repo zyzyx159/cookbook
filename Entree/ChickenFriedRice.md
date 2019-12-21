@@ -27,3 +27,5 @@
 10. Sprinkle with soy sauce and mix evenly.
 11. Remove from heat and stir in chopped cooked egg.
 12. If desired, garnish with additional sliced green onions.
+
+## [Index](../Index.html)

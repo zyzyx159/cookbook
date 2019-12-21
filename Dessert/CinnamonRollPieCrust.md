@@ -21,3 +21,5 @@
 9. Continue placing rounds of dough in the pie plate until the entire plate is full; trim any excess hanging over the edge.
 10. Use the tines of a fork to press indentations all around the edge.
 11. Chill the crust well before filling and baking, and bake according to your preferred pie recipe.
+
+## [Index](../Index.html)

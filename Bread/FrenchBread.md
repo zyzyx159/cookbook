@@ -32,3 +32,5 @@
 18. Bake for an additional 15 to 20 minutes, or until bread tests done.
 19. If necessary, cover loosely with foil to prevent over browning.
 20. Remove from baking sheet, and cool on a wire rack.
+
+## [Index](../Index.html)

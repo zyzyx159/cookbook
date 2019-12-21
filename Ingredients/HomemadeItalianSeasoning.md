@@ -13,3 +13,5 @@
 
 1. Combine all ingredients in a small bowl.
 2. Pour into an air tight container and store in a cool dark place for up to 6 months.
+
+## [Index](../Index.html)

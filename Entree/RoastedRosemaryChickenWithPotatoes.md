@@ -20,3 +20,5 @@
 8. Set the chicken skin-side up on the partially roasted potatoes.
 9. Roast until an instant-read thermometer inserted in the thickest part of the meat reaches 160F and the juices run clear, 25 to 30 minutes.
 10. Transfer the chicken and potatoes to a platter and serve.
+
+## [Index](../Index.html)

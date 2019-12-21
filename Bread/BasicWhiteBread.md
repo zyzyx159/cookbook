@@ -25,7 +25,4 @@
 12. Bake at 375° for 30-35 minutes or until golden brown and bread sounds hollow when tapped.
 13. Remove from pans to wire racks to cool.
 
-Nutritional Facts
-1 slice: 102 calories, 1g fat (0 saturated fat), 0 cholesterol, 222mg sodium, 20g carbohydrate (1g sugars, 1g fiber), 3g protein.
-
-[http://www.tasteofhome.com/recipes/basic-homemade-bread](http://www.tasteofhome.com/recipes/basic-homemade-bread)
+## [Index](../Index.html)

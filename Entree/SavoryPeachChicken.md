@@ -27,3 +27,5 @@
 8. Add the chicken back to the pan with the sauce, turn the heat down to moderate-low, cover and cook for about 5 minutes, or until chicken is cooked through.
 9. In the meantime, toast the almonds in a dry skillet over a medium-high heat stirring frequently, until golden brown and fragrant, about 2 minutes.
 10. Serve the chicken topped with the sauce and sprinkled with the toasted almonds.
+
+## [Index](../Index.html)

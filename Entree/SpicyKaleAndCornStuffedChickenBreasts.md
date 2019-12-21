@@ -34,3 +34,5 @@
 17. Cook, stirring, until thickened, about 2 minutes.
 18. Remove from the heat, stir in the lemon juice and season with salt and pepper.
 19. Spoon the pan sauce over the chicken.
+
+## [Index](../Index.html)
