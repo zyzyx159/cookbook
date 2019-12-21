@@ -26,7 +26,7 @@
 2. [cranberry Apple Danish](Dessert/CranberryAppleDanish.html)
 3. [Overloaded Chocolate Chip Cookies](Dessert/OverLoadedChocolateChipCookies.html)
 4. [Death by Chocolate Overloaded Chocolate Chip Cookies](Dessert/DeathByChoclateOverLoadedChoclateChipCookies.html)
-5. [Snickerdoodle Chocolate Cake](Dessert/SnickerdoodleChocolateCake.html)
+5. [Snickerdoodle Chocolate Cake](Dessert/SnickerdoodleChoclateCake.html)
 6. [Gummies](Dessert/Gummies.html)
 7. [Hard Candy](Dessert/HardCandy.html)
 8. [Pie Crust](Dessert/PieCrust.html)
@@ -36,7 +36,7 @@
 
 1. [Alfredo Sauce](Ingredients/AlfredoSauce.html)
 2. [Anderson Alfredo Sauce](Ingredients/AndersonAlfredo.html)
-3. [Homemade Italian Seasoning](HTML/Ingredients/HomemadeItalianSeasoning.html)
+3. [Homemade Italian Seasoning](Ingredients/HomeMadeItalianSeasoning.html)
 4. [Stir Fry Sauce](Ingredients/StirFrySause.html)
 5. [Sweet and Sour Sauce](Ingredients/SweetAndSourSauce.html)
 6. [Tomato Sauce](Ingredients/TomatoSauce.html)

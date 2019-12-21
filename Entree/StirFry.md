@@ -28,8 +28,8 @@
 ## Sauce
 
 - Pick one
-  - [Stir Fry](/Ingredients/StriFrySause.html)
-  - [Sweet and Sour](/Ingredients/SweetAndSourSause.html)
+  - [Stir Fry](/Ingredients/StriFrySauce.html)
+  - [Sweet and Sour](/Ingredients/SweetAndSourSauce.html)
 
 ## Instructions
 
