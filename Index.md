@@ -41,4 +41,4 @@
 5. [Sweet and Sour Sauce](Ingredients/SweetAndSourSauce.html)
 6. [Tomato Sauce](Ingredients/TomatoSauce.html)
 
-### Version 1.2
+### Version 1.3
