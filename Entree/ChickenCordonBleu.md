@@ -1,4 +1,4 @@
-# ChickenCordonBleu
+# Chicken Cordon Bleu
 
 ## Ingredients
 

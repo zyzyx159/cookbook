@@ -1,4 +1,4 @@
-# hard candy
+# Hard Candy
 
 ## Ingredients
 

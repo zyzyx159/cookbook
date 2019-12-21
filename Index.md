@@ -37,7 +37,7 @@
 1. [Alfredo Sauce](Ingredients/AlfredoSauce.html)
 2. [Anderson Alfredo Sauce](Ingredients/AndersonAlfredo.html)
 3. [Homemade Italian Seasoning](HTML/Ingredients/HomemadeItalianSeasoning.html)
-4. [Stir Fry Sauce](Ingredients/StriFrySauce.html)
+4. [Stir Fry Sauce](Ingredients/StirFrySauce.html)
 5. [Sweet and Sour Sauce](Ingredients/SweetAndSourSauce.html)
 6. [Tomato Sauce](Ingredients/TomatoSauce.html)
 
