@@ -4,7 +4,7 @@
 
 1. [Basic White Bread](Bread/BasicWhiteBread.html)
 2. [Daniel's Bread](Bread/DanielBread.html)
-3. [Dinner Rolls](Bread/DinnerRolls.md)
+3. [Dinner Rolls](Bread/DinnerRolls.html)
 4. [French Bread](Bread/FrenchBread.html)
 5. [Pizza Crust](Bread/PizzaCrust.html)
 

@@ -1,4 +1,4 @@
-# Chicekn Fried Rice
+# Chicken Fried Rice
 
 ## Ingredients
 
