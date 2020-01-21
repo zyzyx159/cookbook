@@ -27,3 +27,5 @@
 6. Drop by rounded teaspoons on an ungreased cookie sheet.
 7. Bakes in 8-10 minutes or until golden brown.
 8. Remove from cookie sheet and cool on a wire rack.
+
+## [Index](../Index.html)

@@ -14,3 +14,5 @@
  3. Apply medium low temp to mixture.
  4. Continue to stir for 5-10 minutes.
     - If the mixture is not clear skim off the top layer, re-melt if needed.
+
+## [Index](../Index.html)
