@@ -10,19 +10,23 @@
 === Entree
 
 . link:Entree/StirFry.html[Stir Fry]
-. link:Entree/TomatoSauce.html[Tomato Sause]
+
 
 === Dessert
 
-. link:Dessert/OverLoadedChocolateChipCookies.html[Overloaded Choclate Chip Cookies]
-. link:Dessert/DeathByChoclateOverLoadedChoclateChipCookies.html[Death by Choclate Overloaded Choclate Chip Cookies]
-. link:Dessert/SnickerdoodleChoclateCake.html[Snickerdoodle Choclate Cake]
-. link:Dessert/Gummies.html[Gummies]
-. link:Dessert/HardCandy.html[Hard Candy]
+. link:OverLoadedChocolateChipCookies.html[Overloaded Chocolate Chip Cookies]
+. link:DeathByChoclateOverLoadedChoclateChipCookies.html[Death by Chocolate Overloaded Chocolate Chip Cookies]
+. link:TexasSheetCake.html[Texas Sheet Cake]
+. link:Gummies.html[Gummies]
+. link:HardCandy.html[Hard Candy]
 
 === Ingredients
-. link:Ingredients/HomeMadeItalianSeasoning.html[Home Made Italian Seasoning]
-. link:Entree/StriFrySause.html[Stir Fry Sause]
-. link:Entree/SweetAndSourSause.html[Sweet and Sour Sause]
 
-=== Version 1.1
+. link:AlfredoSauce.html[Alfredo Sauce]
+. link:AndersonAlfredo.html[Anderson Alfredo]
+. link:HomeMadeItalianSeasoning.html[Home Made Italian Seasoning]
+. link:StirFrySauce.html[Stir Fry Sauce]
+. link:SweetAndSourSauce.html[Sweet and Sour Sauce]
+. link:TomatoSauce.html[Tomato Sauce]
+
+=== Version 1.2
