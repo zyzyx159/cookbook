@@ -2,23 +2,35 @@
 
 === Bread
 
-. link:Bread/BasicWhiteBread.html[Basic White Bread]
-. link:Bread/DanielBread.html[Daniel's Bread]
-. link:Bread/PizzaCrust.html[Pizza Crust]
-. link:Bread/DinnerRolls.html[Dinner Rolls]
+. link:BasicWhiteBread.html[Basic White Bread]
+. link:DanielBread.html[Daniel's Bread]
+. link:DinnerRolls.html[Dinner Rolls]
+. link:FrenchBread.html[French Bread]
+. link:PizzaCrust.html[Pizza Crust]
 
 === Entree
 
-. link:Entree/StirFry.html[Stir Fry]
-
+. link:ChickenCordonBleu.html[Chicken Cordon Bleu]
+. link:ChickenFriedRice.html[Chicken Fried Rice]
+. link:HerbMarinatedPorkTenderloins.html[Herb Marinated Pork Tenderloins]
+. link:OrangeChickenFingers.html[Orange Chicken Finger]
+. link:PorkTenderloinWithSeasonedRub.html[Pork Tenderloin With Seasoned Rub]
+. link:RoastedRosemaryChickenWithPotatoes.html[Roasted Rosemary Chicken With Potatoes]
+. link:SavoryPeachChicken.html[Savory Peach Chicken]
+. link:SpicyKaleAndCornStuffedChickenBreasts.html[Spicy Kale And Corn Stuffed Chicken Breasts]
+. link:StirFry.html[Stir Fry]
 
 === Dessert
 
-. link:OverLoadedChocolateChipCookies.html[Overloaded Chocolate Chip Cookies]
+. link:CinnamonRollPieCrust.html[Cinnamon Roll Pie Crust]
+. link:CranberryAppleDanish.html[Cranberry Apple Danish]
 . link:DeathByChoclateOverLoadedChoclateChipCookies.html[Death by Chocolate Overloaded Chocolate Chip Cookies]
-. link:TexasSheetCake.html[Texas Sheet Cake]
 . link:Gummies.html[Gummies]
 . link:HardCandy.html[Hard Candy]
+. link:OverLoadedChocolateChipCookies.html[Overloaded Chocolate Chip Cookies]
+. link:PieCrust.html[PieCrust]
+. link:PolishKołaczki.html[Polish Kołaczki]
+. link:TexasSheetCake.html[Texas Sheet Cake]
 
 === Ingredients
 
