@@ -7,6 +7,7 @@
 . link:DinnerRolls.html[Dinner Rolls]
 . link:FrenchBread.html[French Bread]
 . link:PizzaCrust.html[Pizza Crust]
+. link:WholeWheatBread.html[Whole Wheat Bread]
 
 === Entree
 
@@ -22,11 +23,13 @@
 
 === Dessert
 
+. link:ChocolateMousse.html[Chocolate Mousse]
 . link:CinnamonRollPieCrust.html[Cinnamon Roll Pie Crust]
 . link:CranberryAppleDanish.html[Cranberry Apple Danish]
 . link:DeathByChoclateOverLoadedChoclateChipCookies.html[Death by Chocolate Overloaded Chocolate Chip Cookies]
 . link:Gummies.html[Gummies]
 . link:HardCandy.html[Hard Candy]
+. link:NewYorkStyleChocolateCheesecake.html[New York Style Chocolate Cheesecake]
 . link:OverLoadedChocolateChipCookies.html[Overloaded Chocolate Chip Cookies]
 . link:PieCrust.html[PieCrust]
 . link:PolishKołaczki.html[Polish Kołaczki]
