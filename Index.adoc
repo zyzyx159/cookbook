@@ -47,6 +47,8 @@
 
 . link:AlfredoSauce.html[Alfredo Sauce]
 . link:AndersonAlfredo.html[Anderson Alfredo]
+. link:CheeseCakeCrumbCrust.html[Cheese Cake Crumb Crust]
+. link:CheeseCakeCrust.html[Cheese Cake Crust]
 . link:HomeMadeItalianSeasoning.html[Home Made Italian Seasoning]
 . link:RanchDressing.html[Ranch Dressing]
 . link:StirFrySauce.html[Stir Fry Sauce]
