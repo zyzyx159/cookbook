@@ -5,7 +5,7 @@
 #    asciidoctor -a linkcss -a nofooter $f
 #done
 
-OUT="~/AsciiDoctor/CookBook"
+OUT="HTML"
 
 rm $OUT/*
 
