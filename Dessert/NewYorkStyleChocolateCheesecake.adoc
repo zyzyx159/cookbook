@@ -32,3 +32,5 @@
 
 * Unbaked cheesecake can be stored in the refrigerator up to 2 days before being baked.
 * Baked cheesecake can be stored in the refrigerator up to one week.
+
+link:index.html[Index]

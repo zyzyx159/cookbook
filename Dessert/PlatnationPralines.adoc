@@ -23,3 +23,5 @@
 . Add Pecans
 . Quickly drop candy by rounded tablespoonfuls onto waxed paper; let cool.
 . When cool store in an air tight container.
+
+link:index.html[Index]

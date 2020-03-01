@@ -16,3 +16,5 @@
 === Notes
 
 * For those who do not like ranch dressing replace with 1 teaspoon salt
+
+link:index.html[Index]

@@ -36,3 +36,5 @@
 === Notes
 
 *  Can be used as a filling for cakes or piped into small dessert dishes and serve on its own.
+
+link:index.html[Index]

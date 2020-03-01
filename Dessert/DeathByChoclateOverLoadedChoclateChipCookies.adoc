@@ -28,3 +28,5 @@
 . Bakes in 10-12 minutes.
 . Give the cookies a few minutes to cool and harden, they don't harden in the oven.
 . Remove from cookie sheet and cool on a wire rack.
+
+link:index.html[Index]

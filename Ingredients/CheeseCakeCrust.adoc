@@ -32,3 +32,5 @@
 === Notes
 
 * may consider a short bread cookie crust in the future.
+
+link:index.html[Index]

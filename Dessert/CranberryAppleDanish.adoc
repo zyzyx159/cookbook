@@ -29,3 +29,5 @@
 . Sprinkle 1 teaspoon of the cinnamon-sugar mixture over the apples.
 . Bake the pastries until golden brown, 15 to 18 minutes.
 . Let cool slightly before serving.
+
+link:index.html[Index]

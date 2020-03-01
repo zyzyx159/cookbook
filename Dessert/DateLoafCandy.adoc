@@ -22,3 +22,5 @@
 === Notes
 
 * May try parchment paper, not wax as I am afraid it will melt
+
+link:index.html[Index]

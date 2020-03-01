@@ -32,3 +32,5 @@
     . I only use real butter, not margarine.
 
 \* one package of yeast is 1/4 ounce or 2 1/4 teaspoons, but I use a tablespoon because I don't want to dirty more dishes and the result is the same.
+
+link:index.html[Index]

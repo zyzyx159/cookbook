@@ -40,3 +40,5 @@
 . Bring to a boil butter, cocoa, buttermilk and remove from heat.
 . Mix in sifted powdered sugar and cinnamon.
 . Pour on top of cake.
+
+link:index.html[Index]

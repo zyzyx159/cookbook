@@ -22,3 +22,5 @@
 === Notes
 
 * I have never measured the ingredients, I have always guessed by sight. When I measure this out I will update the recipe
+
+link:index.html[Index]

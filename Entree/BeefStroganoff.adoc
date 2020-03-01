@@ -37,6 +37,4 @@
 . Season with additional salt if needed.
 . Serve over the egg noodles, garnished with parsley if desired.
 
-=== Notes
-
-* Dots
+link:index.html[Index]

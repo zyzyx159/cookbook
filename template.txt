@@ -12,3 +12,6 @@
 === Notes
 
 * Dots
+
+
+link:index.html[Index]

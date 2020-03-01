@@ -23,3 +23,5 @@
 . Add the minced garlic and saute, stirring, for 1 minute.
 . Put tenderloin in the pan and cook for about 10 minutes, searing each side using tongs to turn the meat.
 . Transfer meat to a roasting pan and bake for 20 minutes. Slice and serve.
+
+link:index.html[Index]

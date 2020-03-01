@@ -20,3 +20,5 @@
 
 * Most any cookie will do.
 * Gram Crackers, despite their name, are in fact cookies.
+
+link:index.html[Index]

@@ -22,3 +22,5 @@
    .. Should only take about 30 minutes.
 . Bake in preheated 375 degrees F oven for 20 minutes or until done.
 . Brush with butter and serve warm.
+
+link:index.html[Index]

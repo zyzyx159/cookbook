@@ -42,3 +42,5 @@
     .. If you use rice you may want to start sooner, but anything else this is the time
 . Dump the meat, vegetables, starch, and sauce back into the pan.
 . Heat the mixture while stirring to ensure and even mix of ingredients.
+
+link:index.html[Index]
