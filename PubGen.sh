@@ -15,17 +15,26 @@
 #	default is /usr/lib/ruby/gems/2.7.0/gems/asciidoctor-2.0.10/data/stylesheets
 # -D output folder
 
-
-OUT="${PWD}/HTML"
 # ${PWD} = current working directory
+HTML="${PWD}/HTML"
+PUB="${PWD}/publish"
+BOOK="Daniel's Cookbook"
 
-mkdir -p $output
 # if the HTML folder does not exist make one
+mkdir -p $HTML
+mkdir -p $PUB
 
-rm $OUT/*
 # delete every thing in it
+rm $HTML/*
+rm $PUB/*
 
+# generate HTML
 find . -name "*.adoc" -print0 | while read -d $'\0' file
 do
-    asciidoctor -r asciidoctor-html5s -b html5s -a no-header -a no-footer -a linkcss -D $OUT $file
+    asciidoctor -r asciidoctor-html5s -b html5s -a no-header -a no-footer -a linkcss -D $HTML $file
 done
+
+# generate the rest
+ebook-convert $HTML/index.html "$PUB/$BOOK".epub""
+ebook-convert $HTML/index.html "$PUB/$BOOK".azw3""
+ebook-convert $HTML/index.html "$PUB/$BOOK".zip""
