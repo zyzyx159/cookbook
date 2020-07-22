@@ -1,4 +1,9 @@
 #!/bin/bash
+
+# For new installs:
+# 1) yay -S asciidoctor
+# 2) gem install asciidoctor-html5s
+
 # asciidoctor = call the program
 # -r asciidoctor-html5s -b html5s = use the custom conversion (seperate download) 
 #   gem install asciidoctor-html5s
@@ -9,6 +14,7 @@
 # -a stylesdir=<location> = folder where the CSS is stored
 #	default is /usr/lib/ruby/gems/2.7.0/gems/asciidoctor-2.0.10/data/stylesheets
 # -D output folder
+
 
 OUT="${PWD}/HTML"
 # ${PWD} = current working directory

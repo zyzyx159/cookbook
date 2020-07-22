@@ -2,9 +2,9 @@
 
 === Ingredients
 
-* 4 Cups bread flour, plus more for rolling \*
+* 4 Cups bread flour, plus more for rolling +*+
 * 1 Teaspoon sugar
-* 1 Tablespoon yeast \**
+* 1 Tablespoon yeast +**+
 * 2 Teaspoons kosher salt
 * 1 1/2 cups water, 110 degrees F
 * 2 Tablespoons olive oil
@@ -25,7 +25,8 @@
 . Cook at 450 for 10 minutes.
    .. I like a lot of toppings on my pizza and need to pre-cook the crust for 5-7 minutes before I add toppings, otherwise the crust is doughy in the middle.
 
-\* Chef's Note: Using bread flour will give you a much crisper crust. If you can't find bread flour, you can substitute it with all-purpose flour which will give you a chewier crust.
-\** 2 1/4 Teaspoons is enough, but I don't want to wash the extra spoon
++*+ Chef's Note: Using bread flour will give you a much crisper crust. If you can't find bread flour, you can substitute it with all-purpose flour which will give you a chewier crust.
+
++**+ 2 1/4 Teaspoons is enough, but I don't want to wash the extra spoon
 
 link:index.html[Index]

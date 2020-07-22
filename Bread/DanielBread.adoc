@@ -2,7 +2,7 @@
 
 === Ingredients
 
-* 1 Tablespoon bread machine (instant) yeast \*
+* 1 Tablespoon bread machine (instant) yeast *
 * 2 3/4 cups warm water (110° to 115°)
 * 3 Tablespoons sugar
 * 1 Tablespoon salt
@@ -31,6 +31,6 @@
 . While its cooling rub the top of the loaf with butter and cool in the pan.
     . I only use real butter, not margarine.
 
-\* one package of yeast is 1/4 ounce or 2 1/4 teaspoons, but I use a tablespoon because I don't want to dirty more dishes and the result is the same.
++*+ one package of yeast is 1/4 ounce or 2 1/4 teaspoons, but I use a tablespoon because I don't want to dirty more dishes and the result is the same.
 
 link:index.html[Index]
