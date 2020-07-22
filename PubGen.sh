@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # For new installs:
-# 1) yay -S asciidoctor
+# 1) yay -S asciidoctor calibre
 # 2) gem install asciidoctor-html5s
 
 # asciidoctor = call the program
