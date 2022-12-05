@@ -1,16 +1,16 @@
-== name
+# name
 
-=== Ingredients
+## Ingredients
 
-* Dots
+- Dots
 
-=== Directions
+## Directions
 
-. Numbers
-    .. Sub numbers
+1. Numbers
+    1. Sub numbers
 
-=== Notes
+## Notes
 
-* Dots
+- Dots
 
-link:index.html[Index]
+[Index](index.html)
